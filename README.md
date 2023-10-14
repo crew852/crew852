@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Wave&text=crew852)
-
-- 🌱 I’m currently learning ... Web Development
+- 👋 Hi, I’m crew852
+- 🌱 I’m currently learning ... Web Development, Web Security
 <!--
 **crew852/crew852** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
